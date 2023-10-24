@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-Key</string>
+    <string name="Welcome_To_E_Key">Hello world</string>
+    <string name="made_by_manish_kumar_shukla">Made by Manish Kumar Shukla</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="e_key">E-Key</string>
+</resources>
